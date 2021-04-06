@@ -1,0 +1,61 @@
+/*
+  Localizable.strings
+  Flowers
+
+  Created by Алексей on 29.12.2020.
+  
+*/
+
+//MARK: Home
+"home.title" = "Главная";
+"home.block.sale" = "Акции";
+"home.block.hit" = "Хит продаж";
+
+//MARK: ProductDetail
+"product.detatil.title" = "Букет";
+
+//MARK: Order
+"order.title" = "Заказы";
+"order.action.repeat" = "Повторить";
+"order.no_order" = "Нет заказов";
+
+//MARK: Catalog
+"catalog.title" = "Каталог";
+
+//MARK: News
+"news.title" = "Новости";
+
+//MARK: Product
+"product.buy.button" = "Купить";
+
+
+//MARK: Alert
+"alert.ok.button" = "Ок";
+"alert.cansel.button" = "Отмена";
+"alert.title" = "Сообщение";
+
+//MARK: AlertError
+"alert.error.title" = "Ошибка";
+"alert.error.message" = "Техническая ошибка. Попробуйте позже";
+
+//MARK: AlertNetwork
+"alert.network.message" = "Техническая ошибка. Попробуйте позже";
+
+//MARK: AlertBuy
+"alert.buy.ok.button" = "Купить";
+"alert.buy.cansel.button" = "Отмена";
+"alert.buy.title" = "Оформить заказ";
+"alert.buy.repeat.title" = "Повторить заказ";
+"alert.buy.message" = "";
+"alert.buy.name" = "Ваше имя";
+"alert.buy.phone" = "Ваш номер телефон";
+
+
+//MARK: AlertOrder
+"alert.order.error.order.no.title" = "Ошибка при создание заказа";
+"alert.order.error.order.no" = "Заказ не создан. Попробуйте позже";
+"alert.order.error.order.save" = "Заказ успешно создан, но не сохранен на телефон";
+"alert.order.save" = "Заказ успешно создан";
+
+//MARK: AlertNews
+"alert.news.error.page.no" = "Просматривать можно только новости";
